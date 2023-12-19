@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This section provides an overview of the analysis conducted on the "Restaurant Orders" database. The database consists of two main tables: `order_details` and `menu_items`. Below are the details of the tables and the analysis performed.
+This section provides an overview of the analysis conducted on the "Restaurant Orders" database. The database consists of two main tables: `order_details` and `menu_items`. 
+Below are the details of the tables and the analysis performed.
 
 # Restaurant Orders Database - Table Details
 
